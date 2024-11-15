@@ -1,7 +1,7 @@
 /*----------------------------------------------------*/
 /*   Program name : neuralnetwork_backpropagation.c   */
 /*    Date of program : 2024/9/24                     */
-/*   Author : Egawa                                   */
+/*   Author : Ueno                                   */
 /*----------------------------------------------------*/
 
 #include<stdio.h>
